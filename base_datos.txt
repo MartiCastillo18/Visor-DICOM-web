@@ -1,0 +1,10 @@
+DB: visor_dicom
+
+CREATE TABLE historial__dicom (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  nombre_archivo VARCHAR(255) NOT NULL,
+  ruta VARCHAR(255) NOT NULL,
+  fecha_subida DATETIME NOT NULL,
+  eliminado TINYINT(1) DEFAULT 0,
+  INDEX idx_fecha (fecha_subida)
+);
