@@ -19,6 +19,7 @@ Aun así, se conserva como prototipo funcional y parte del proceso de desarrollo
 - Marti Castillo (Backend)
 - Ernesto Rodarte (Frontend)
 - Noe Toleado (Asesor)
+- Selene Ríos (Asesora)
 
 ## Instrucciones
 1- Clonar el repositorio
@@ -28,4 +29,3 @@ Aun así, se conserva como prototipo funcional y parte del proceso de desarrollo
 5- Iniciar Apache y MySQL desde el panel de XAMPP
 6- Abrir el navegador y escribir:
 http://localhost/visor_web/
-
