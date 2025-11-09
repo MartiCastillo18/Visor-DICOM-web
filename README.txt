@@ -1,4 +1,4 @@
-#Prototipo Visor DICOM
+# Prototipo Visor DICOM
 
 Este proyecto consiste en un visor de imágenes médicas (DICOM) integrado con un modelo de IA
 para zonas toraxicas. 
@@ -19,6 +19,7 @@ Aun así, se conserva como prototipo funcional y parte del proceso de desarrollo
 - Marti Castillo (Backend)
 - Ernesto Rodarte (Frontend)
 - Noe Toleado (Asesor)
+- Selene Ríos (Asesor)
 
 ## Instrucciones
 1- Clonar el repositorio
