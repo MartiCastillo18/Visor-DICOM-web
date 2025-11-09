@@ -29,4 +29,3 @@ Aun así, se conserva como prototipo funcional y parte del proceso de desarrollo
 5- Iniciar Apache y MySQL desde el panel de XAMPP
 6- Abrir el navegador y escribir:
 http://localhost/visor_web/
-
