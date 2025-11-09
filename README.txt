@@ -19,7 +19,7 @@ Aun así, se conserva como prototipo funcional y parte del proceso de desarrollo
 - Marti Castillo (Backend)
 - Ernesto Rodarte (Frontend)
 - Noe Toleado (Asesor)
-- Selene Ríos (Asesora)
+- Selene Ríos (Asesor)
 
 ## Instrucciones
 1- Clonar el repositorio
